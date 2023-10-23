@@ -89,3 +89,29 @@ Dataset_Feature_Value	34	5
 Datasets_Description	9	3
 Datasets_Feature_Description	77	8
 
+# Problem Definition
+For this tutorial, we will build a model to predict the depth to groundwater of an aquifer located in Petrignano, Italy. The question we want to answer is
+> What is the future depth to groundwater of a well belonging to the aquifier in Petrigrano over the next quarter?
+
+> The wells field of the alluvial plain between Ospedalicchio di Bastia Umbra and Petrignano is fed by three underground aquifers separated by low permeability septa. The aquifer can be considered a water table groundwater and is also fed by the Chiascio river. The groundwater levels are influenced by the following parameters: rainfall, depth to groundwater, temperatures and drainage volumes, level of the Chiascio river.
+
+> Indeed, both rainfall and temperature affect features like level, flow, depth to groundwater and hydrometry some time after it fell down. 
+
+# Data Collection 
+In a typical workflow for time series, this would be the time for data collection. In this example, we will skip the data collection step and use data from the [Acea Smart Water Analytics challenge](https://www.kaggle.com/c/acea-water-prediction/). Therefore, this section will be a dataset overview. 
+# Challenge
+To predict the amount of water in each unique waterbody? The challenge is to determine how features influence the water availability of each presented waterbody. To be more straightforward, gaining a better understanding of volumes, they will be able to ensure water availability for each time interval of the year.
+
+The time interval is defined as day/month depending on the available measures for each waterbody. Models should capture volumes for each waterbody(for instance, for a model working on a monthly interval a forecast over the month is expected).
+
+The desired outcome is a notebook
+Although the dataset contains multiple waterbodies, we will only be looking at the Aquifer_Petrignano.csv file.
+
+Time series data usually comes in **tabular** format (e.g. csv files).
+
+
+The desired outcome is a notebook that can generate four mathematical models, one for each category of waterbody (acquifers, water springs, river, lake) that might be applicable to each single waterbody.
+
+
+
+
