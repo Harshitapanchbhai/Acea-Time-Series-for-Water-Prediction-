@@ -113,5 +113,6 @@ Time series data usually comes in **tabular** format (e.g. csv files).
 The desired outcome is a notebook that can generate four mathematical models, one for each category of waterbody (acquifers, water springs, river, lake) that might be applicable to each single waterbody.
 
 
+![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/c615aa8d-7167-44d1-8d60-3400e808505e)
 
 
