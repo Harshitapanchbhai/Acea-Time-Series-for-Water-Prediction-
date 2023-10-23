@@ -12,9 +12,7 @@ Datasets_Feature_Description	77	8
 
 # Problem Definition
 For this tutorial, we will build a model to predict the depth to groundwater of an aquifer located in Petrignano, Italy. The question we want to answer is
-> What is the future depth to groundwater of a well belonging to the aquifier in Petrigrano over the next quarter?
-
-> The wells field of the alluvial plain between Ospedalicchio di Bastia Umbra and Petrignano is fed by three underground aquifers separated by low permeability septa. The aquifer can be considered a water table groundwater and is also fed by the Chiascio river. The groundwater levels are influenced by the following parameters: rainfall, depth to groundwater, temperatures and drainage volumes, level of the Chiascio river.
+> What is the future depth to groundwater of a well belonging to the aquifier in Petrigrano over the next quarter?. The aquifer can be considered a water table groundwater and is also fed by the Chiascio river. The groundwater levels are influenced by the following parameters: rainfall, depth to groundwater, temperatures and drainage volumes, level of the Chiascio river.
 
 > Indeed, both rainfall and temperature affect features like level, flow, depth to groundwater and hydrometry some time after it fell down. 
 
@@ -30,14 +28,19 @@ The desired outcome is a notebook that can generate four mathematical models, on
 # Results 
 
 ![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/7e13e4c2-3c71-48c9-9be1-408bb165c5c7)
+
 ![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/19322331-de48-468a-90d4-9df24adbe992)
+
 ![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/8985a42e-0c84-4424-8839-99950c91c458)
+
 ![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/20379b46-4a25-49ab-8f0c-83436c44504f)
+
 ![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/9a94076a-82f8-4183-bcc0-e8b7d0667c7f)
 
 ![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/19476859-5ed7-48d4-a7e7-4c263101b283)
-![image]
+
 ![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/f2a51fa8-1496-4dca-bb5f-2d4a19c98fe9)
+
 (https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/c2710933-6e4c-449f-b2bd-44973c5cd4ee)
 
 
