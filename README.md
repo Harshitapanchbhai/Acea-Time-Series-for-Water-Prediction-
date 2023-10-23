@@ -29,7 +29,7 @@ The desired outcome is a notebook that can generate four mathematical models, on
 
 ![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/7e13e4c2-3c71-48c9-9be1-408bb165c5c7)
 
-![image](https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/19322331-de48-468a-90d4-9df24adbe992)
+
 
 
 (https://github.com/Harshitapanchbhai/Acea-Time-Series-for-Water-Prediction-/assets/85555899/c2710933-6e4c-449f-b2bd-44973c5cd4ee)
